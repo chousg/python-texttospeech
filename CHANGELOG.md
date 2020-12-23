@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-texttospeech/#history
 
+## [2.3.0](https://www.github.com/googleapis/python-texttospeech/compare/v2.2.0...v2.3.0) (2020-12-23)
+
+
+### Features
+
+* support custom client info ([#82](https://www.github.com/googleapis/python-texttospeech/issues/82)) ([0612793](https://www.github.com/googleapis/python-texttospeech/commit/06127932a920f6318db8f25d6430755b35d09bb5))
+
+
+### Documentation
+
+* use sphinx-1.5.5 for sphinx-docfx-yaml ([#89](https://www.github.com/googleapis/python-texttospeech/issues/89)) ([feb04c5](https://www.github.com/googleapis/python-texttospeech/commit/feb04c50b56c2c3359b92d8b5887c8ee50be2b95))
+
 ## [2.2.0](https://www.github.com/googleapis/python-texttospeech/compare/v2.1.0...v2.2.0) (2020-08-10)
 
 
